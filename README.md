@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... public health, healthtech, wearables, 
 - 🌱 I’m currently learning ... python, clinical medicine, anaesthetics
 - 💞️ I’m looking to collaborate on ... anything really
-- 📫 How to reach me ... my linkedin (type nsinghcambridge into your linkedin searchbar)
+- 📫 How to reach me ... my linkedin (nsinghcambridge)
 
 <!---
 ns687/ns687 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
